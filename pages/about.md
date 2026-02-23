@@ -10,6 +10,7 @@ toc: false
 ## Why Georeferencing.org
 
 Georeferencing.org is a community-driven resource dedicated to
+
 - helping georeferencers find the tools and resources they need, and,
 - allowing members of the georeferencing community to support each other by sharing resources for others to use.
 

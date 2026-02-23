@@ -9,6 +9,7 @@ toc: true
 Want to recommend data sources for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
 ## Area-Specific Sources
+
 - [Canadensys](https://www.canadensys.net/){:target="_blank"}
 - [GBIF North America](https://www.gbif-north-america.org/){:target="_blank"}
 - [GBIF.us](https://www.gbif.us/){:target="_blank"} (United States)
@@ -19,6 +20,7 @@ Want to recommend data sources for this page? Find a broken link? [Contact us](h
 - [Australasian Virtual Herbarium](https://avh.chah.org.au/){:target="_blank"}
 
 ## Global Sources
+
 - [VertNet](https://www.vertnet.org/){:target="_blank"}
 - [Global Biodiveresity Information Facility (GBIF)](https://www.gbif.org/){:target="_blank"}
 - [GBIF Hosted Portals](https://www.gbif.org/composition/4s2G3hhH1n3reU0yN0F8RF/hosted-portals-in-production){:target="_blank"}
@@ -39,5 +41,3 @@ Want to recommend data sources for this page? Find a broken link? [Contact us](h
 - [ITIS - Integrated Taxonomic Information System](https://www.itis.gov/){:target="_blank"}
 - [Encyclopedia of Life](https://eol.org/){:target="_blank"}
 - [Animal Diversity Web](https://animaldiversity.ummz.umich.edu/){:target="_blank"}
-
-

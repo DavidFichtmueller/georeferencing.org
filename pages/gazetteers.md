@@ -1,21 +1,23 @@
 ---
 title: Gazetteers
 background:
-  img: //assets/images/Multimap_annie-spratt-AFB6S2kibuk-unsplash.jpg
+  img: /assets/images/Multimap_annie-spratt-AFB6S2kibuk-unsplash.jpg
   by: Freepik.com
 permalink: /gazetteers/
-height:  75vh
 toc: true
 ---
+
 Want to recommend gazetteers or mapping resources for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
 ## Mapping Gazatteers
+
 - [GEOLocate](https://www.geo-locate.org/){:target="_blank"}
 - [GeoPick](https://geopick.gbif.org/){:target="_blank"}
 - [BerkeleyMapper](https://berkeleymapper.berkeley.edu/){:target="_blank"}
 - [GPS Visualizer](https://www.gpsvisualizer.com/){:target="_blank"}
 
 ## Placenames
+
 - [Statiods](https://www.statoids.com/){:target="_blank"}
 - [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/){:target="_blank"}
 - [GeoNames](https://www.geonames.org/){:target="_blank"}
@@ -25,6 +27,7 @@ Want to recommend gazetteers or mapping resources for this page? Find a broken l
 - [Natural Resources Canada Geographic Names](https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/geographical-names-canada){:target="_blank"}
 
 ## Regional Gazetteers
+
 - [Acme Mapper](https://mapper.acme.com/){:target="_blank"}
 - [Mappy](https://en.mappy.com/){:target="_blank"} (Europe)
 - [Natural Resources Data, Maps & Tools Directory](https://natural-resources.canada.ca/maps-tools-publications){:target="_blank"} (Canada)
@@ -40,8 +43,8 @@ Want to recommend gazetteers or mapping resources for this page? Find a broken l
 - [Township and Range System (U.S. Public Land Survey)](https://project.geo.msu.edu/geogmich/michigan/Maps_Graphics%5CUSPLSS.pdf){:target="_blank"}
 
 ## Digital Maps
+
 - [Google Maps](https://www.google.com/maps){:target="_blank"}
 - [Google Earth / Google Maps Platform](https://mapsplatform.google.com/maps-products/earth/capabilities/?utm_source=google_earth&utm_medium=site&utm_campaign=next-25&utm_content=legacy){:target="_blank"}
 - [CIA World Factbook](https://www.cia.gov/the-world-factbook/){:target="_blank"}
 - [Perry-Castañeda Library Map Collection](https://maps.lib.utexas.edu/maps/map_sites/cities_sites.html){:target="_blank"}
-

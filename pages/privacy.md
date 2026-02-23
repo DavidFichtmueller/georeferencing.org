@@ -59,11 +59,11 @@ The lifetime of cookies may vary. We use session cookies which are deleted at th
 
 ### 4.3 Detailed information on the cookies and similar technologies used on this website
 
-| Name      | Set by | Function     | Expiry    |
-| :---        | :----   | :--- | :---   |
-| Technically necessary      | Georeferencing.org       | Technically Necessary   | Session cookies are deleted when you close your browser.  |
-| Consent (local storage)   | Georeferencing.org        | Technically Necessary      | Removed on demand   |
-| Google Analytics   | Google Ireland Ltd        | Statistics      | 13 months   |
+| Name | Set by | Function | Expiry |
+| :--- | :--- | :--- | :--- |
+| Technically necessary | Georeferencing.org | Technically Necessary | Session cookies are deleted when you close your browser. |
+| Consent (local storage) | Georeferencing.org | Technically Necessary | Removed on demand |
+| Google Analytics | Google Ireland Ltd | Statistics | 13 months |
 
 ## 5. UsingGeoreferencing.org’s Help Desk
 
@@ -103,7 +103,7 @@ According to the GDPR, you are entitled to the following rights against Georefer
 - Right to object (Art. 21 GDPR): You have the right to object, on grounds relating to your particular situation, to the processing of your personal data that is based on our legitimate interests.
 - Right to withdraw consent: You have the right to withdraw a consent you have given to us for a specific processing activity at any time.
 
-If you wish to exercise any of these rights, please send us an email at: [dbloom@vertnet.org](mailto:dloom@vertnet.org)
+If you wish to exercise any of these rights, please send us an email at: <dbloom@vertnet.org>
 
 In addition, you are entitled to lodge a complaint regarding the handling of your personal data with a supervisory authority.
 

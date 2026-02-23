@@ -8,7 +8,7 @@ background:
 permalink: /
 ---
 
-![Georef_Logo_White.png]({{ '/assets/logos/Georef_Logo_White.png' | relative_url }}){:.float-end .w-50}
+![Georef_Logo_White.png](/assets/logos/Georef_Logo_White.png){:.float-end .w-50}
 
 Georeferencing is an essential component of data completeness and fitness for use for biodiversity data. To promote the best practices in georeferencing, we’ve developed an extensive collection of reference materials, tools and other resources for georeferencers everywhere.
 
